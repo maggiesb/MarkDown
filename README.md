@@ -27,7 +27,7 @@ As Grace Hopper said:
 
 \* Escaped asterisk \*
 
-[Github] (http://github.com)
+[Github](http://github.com)
 
 :+1:  :metal:   :octocat:
 
